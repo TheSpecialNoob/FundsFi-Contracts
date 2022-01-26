@@ -1016,7 +1016,7 @@ abstract contract ERC20Permit is ERC20, IERC2612Permit {
 contract FUNDS is ERC20Permit, VaultOwned {
     using CustomSafeMath for uint256;
 
-    constructor() ERC20('FundFi', 'FUNDS', 18) {}
+    constructor() ERC20('FundsFi', 'FUNDS', 18) {}
 
     function mint(address account_, uint256 amount_) external onlyVault {
         _mint(account_, amount_);
