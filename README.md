@@ -1,5 +1,18 @@
 # $FUNDS-Contract Address: [0x135f763C5Fa7354f62B2b5BeC662Daa3f69c80DC](https://explorer.harmony.one/address/0x135f763c5fa7354f62b2b5bec662daa3f69c80dc?activeTab=7)
 # $Lottery-Contract Address: [0x941F8788C0825aDA7C0E3d2cC53570489606d10f](https://explorer.harmony.one/address/0x941F8788C0825aDA7C0E3d2cC53570489606d10f?activeTab=7)
 # $HeadsOrTails-Contract Address: [0x138129ee4214BF469e8D94C0c70688b248EbBc67](https://explorer.harmony.one/address/0x138129ee4214BF469e8D94C0c70688b248EbBc67?activeTab=7)
-# WhitePaper: https://one-usd.gitbook.io/fundsfi-whitepaper/
-# Discord: https://discord.gg/9ZAzQGDQ7V
+# $FundsFi-Project-Supporters-Contract Address: [0x09F0bc74831B78c311A1D366dd565FB4987D0E2ad](https://explorer.harmony.one/address/0x09F0bc74831B78c311A1D366dd565FB4987D0E2ad?activeTab=7)
+# $FUNDSSale1-Contract Address: [0xd08Fb19eb6a4326Be8204b45b3edfbd8F9e9466d](https://explorer.harmony.one/address/0xd08Fb19eb6a4326Be8204b45b3edfbd8F9e9466d?activeTab=7)
+# $FundsFi Presale Round 1-Contract Address: [0xdd90295994357E85C573C859a6dADfF66B9D1339](https://explorer.harmony.one/address/0xdd90295994357E85C573C859a6dADfF66B9D1339?activeTab=7)
+# FundsFi Treasury Multi-Sig Wallet Smart Contract:(https://explorer.harmony.one/address/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3?activeTab=7) 
+# [FundsFi Treasury Harmony Tracker](https://multisig.harmony.one/app/#/safes/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3/balances)
+# [FundsFi Treasury Zapper Tracker](https://zapper.fi/account/0xa3c5c6121c4c65ad8b99c53a80cc2af7f369aad3)
+# [WhitePaper](https://one-usd.gitbook.io/fundsfi-whitepaper/)
+# [Discord](https://discord.gg/9ZAzQGDQ7V)
+# [Twitter](https://twitter.com/FundsFi)
+# [Partnership Request Form](https://airtable.com/shrWzg51kDCplJSWf)
+# [Sponsor Giveaway Request Form](https://airtable.com/shrcyTFS2NjoyDjDH)
+# [FlipBoard](https://flipboard.com/@FundsFi)
+# [Telegram](https://t.me/+ICMCiOUkYb8zMzZh)
+# [Metatrone](https://metatr.one/#/collection/0x91d0419889ff75e237e95778138f100072004748 )
+
