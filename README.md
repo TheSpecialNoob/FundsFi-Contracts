@@ -7,6 +7,7 @@
 # FundsFi Treasury Multi-Sig Wallet Smart Contract:(https://explorer.harmony.one/address/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3?activeTab=7) 
 # [FundsFi Treasury Harmony Tracker](https://multisig.harmony.one/app/#/safes/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3/balances)
 # [FundsFi Treasury Zapper Tracker](https://zapper.fi/account/0xa3c5c6121c4c65ad8b99c53a80cc2af7f369aad3)
+# [Website](https:www.fundsfi.one)
 # [WhitePaper](https://one-usd.gitbook.io/fundsfi-whitepaper/)
 # [Discord](https://discord.gg/9ZAzQGDQ7V)
 # [Twitter](https://twitter.com/FundsFi)
