@@ -3,7 +3,7 @@
 # $HeadsOrTails-Contract Address: [0x138129ee4214BF469e8D94C0c70688b248EbBc67](https://explorer.harmony.one/address/0x138129ee4214BF469e8D94C0c70688b248EbBc67?activeTab=7)
 # $FundsFi-Project-Supporters-Contract Address: [0x09F0bc74831B78c311A1D366dd565FB4987D0E2a](https://explorer.harmony.one/address/0x09F0bc74831B78c311A1D366dd565FB4987D0E2a?activeTab=7)
 # $FUNDSSale1-Contract Address: [0xd08Fb19eb6a4326Be8204b45b3edfbd8F9e9466d](https://explorer.harmony.one/address/0xd08Fb19eb6a4326Be8204b45b3edfbd8F9e9466d?activeTab=7)
-# $FUNDSSale2-Contract Address: [0x2DE94eD6238Ba269D23B623CA74C381465a27e2C](https://explorer.harmony.one/address/0x2DE94eD6238Ba269D23B623CA74C381465a27e2C?activeTab=7)
+# $FUNDSSale2-Contract Address: [0x9559c36c5A71D3bB45AdCC3EAEE38de3F063fE4E](https://explorer.harmony.one/address/0x9559c36c5A71D3bB45AdCC3EAEE38de3F063fE4E?activeTab=7)
 # $FundsFi Presale Round 1-Contract Address: [0xdd90295994357E85C573C859a6dADfF66B9D1339](https://explorer.harmony.one/address/0xdd90295994357E85C573C859a6dADfF66B9D1339?activeTab=7)
 # FundsFi Treasury Multi-Sig Wallet Smart Contract:(https://explorer.harmony.one/address/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3?activeTab=7) 
 # [FundsFi Treasury Harmony Tracker](https://multisig.harmony.one/app/#/safes/0xA3C5c6121C4C65AD8b99c53a80cc2af7F369aaD3/balances)
