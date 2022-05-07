@@ -17,4 +17,4 @@
 # [FlipBoard](https://flipboard.com/@FundsFi)
 # [Telegram](https://t.me/+ICMCiOUkYb8zMzZh)
 # [Metatrone](https://metatr.one/#/collection/0x91d0419889ff75e237e95778138f100072004748 )
-
+![This is an image](https://github.com/TheSpecialNoob/FundsFi-Contracts/blob/main/FundsFiLogo-modified.png)
