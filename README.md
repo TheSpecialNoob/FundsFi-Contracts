@@ -1,4 +1,5 @@
 # $FUNDS-Contract Address: [0x135f763C5Fa7354f62B2b5BeC662Daa3f69c80DC](https://explorer.harmony.one/address/0x135f763c5fa7354f62b2b5bec662daa3f69c80dc?activeTab=7)
+# Defi Blogs: BLOGS Contract Address: [0x4092C71D6e69E5C69c795C459D6517f4Cca89481](https://snowtrace.io/address/0x4092C71D6e69E5C69c795C459D6517f4Cca89481)
 # $Lottery-Contract Address: [0x941F8788C0825aDA7C0E3d2cC53570489606d10f](https://explorer.harmony.one/address/0x941F8788C0825aDA7C0E3d2cC53570489606d10f?activeTab=7)
 # $HeadsOrTails-Contract Address: [0x138129ee4214BF469e8D94C0c70688b248EbBc67](https://explorer.harmony.one/address/0x138129ee4214BF469e8D94C0c70688b248EbBc67?activeTab=7)
 # $FundsFi-Project-Supporters-Contract Address: [0x09F0bc74831B78c311A1D366dd565FB4987D0E2a](https://explorer.harmony.one/address/0x09F0bc74831B78c311A1D366dd565FB4987D0E2a?activeTab=7)
